@@ -32,7 +32,7 @@ The goal of this project is to automatically classify text messages as spam or n
 ## Results
 - Accuracy: 98.4%
 - F1-score: 0.991
-- 
+  
 ## Tech Stack
 - Python  
 - pandas, numpy  
